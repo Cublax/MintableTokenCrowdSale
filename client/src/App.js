@@ -150,20 +150,19 @@ class App extends Component {
             <Block textAlign='center'>
               <Image
                 display='inline-block'
-                rounded
                 size={64}
-                src='img/onion.svg'
+                src='img/cube.svg'
               />
             </Block>
-            <Heading marginless>GoldenOnion Mintable Token Sale</Heading>
-            <p className='is-size-4 mb-4'>Get your Onion today!</p>
+            <Heading marginless>Cublax Mintable Token Sale</Heading>
+            <p className='is-size-4 mb-4'>Get your Cub today!</p>
             <Columns breakpoint='tablet'>
               <Columns.Column>
                 <div className='subheader-line'>
                   <h2>KYC Whitelisting</h2>
                 </div>
                 <p className='mb-6'>
-                  In order to any account to mint <b>ONION</b>, it must be
+                  In order to any account to mint <b>CUB</b>, it must be
                   whitelisted beforehand.
                 </p>
                 <Form.Field align='center' kind='group'>
@@ -196,7 +195,7 @@ class App extends Component {
                   {this.state.userTokens}
                 </span>
                 <p className='is-size-4'>
-                  <b>ONION</b> Tokens
+                  <b>CUB</b> Tokens
                 </p>
                 <p className='has-text-grey'>
                   If you want to buy tokens, send Wei to this address:
@@ -214,8 +213,8 @@ class App extends Component {
           <p>Educational dApp deployed in Test Network.</p>
           <p>
             Modified by{' '}
-            <a href='https://github.com/leandrososa' target='_blank'>
-              leandrososa
+            <a href='https://github.com/Cublax/MintableTokenCrowdSale' target='_blank'>
+              Cublax
             </a>
             . Original assignment for the{' '}
             <a
