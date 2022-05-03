@@ -27,7 +27,7 @@ module.exports = {
       provider: function () {
         return new HDWalletProvider(
           process.env.MNEMONIC,
-          'wss://goerli.infura.io/ws/v3/a1d5513f6ba34b728f2ef7e39c076ae1',
+          'https://goerli.infura.io/v3/172533afc3e74006b810c97386fbd0ff',
           AccountIndex
         );
       },
@@ -37,7 +37,7 @@ module.exports = {
       provider: function () {
         return new HDWalletProvider(
           process.env.MNEMONIC,
-          'wss://ropsten.infura.io/ws/v3/a1d5513f6ba34b728f2ef7e39c076ae1',
+          'https://ropsten.infura.io/v3/172533afc3e74006b810c97386fbd0ff',
           AccountIndex
         );
       },
