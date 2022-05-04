@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/MintableTokenCrowdSale/static/css/main.0e47b665.chunk.css",
+    "main.js": "/MintableTokenCrowdSale/static/js/main.9e5ec2d9.chunk.js",
+    "main.js.map": "/MintableTokenCrowdSale/static/js/main.9e5ec2d9.chunk.js.map",
+    "runtime-main.js": "/MintableTokenCrowdSale/static/js/runtime-main.ae0c5d83.js",
+    "runtime-main.js.map": "/MintableTokenCrowdSale/static/js/runtime-main.ae0c5d83.js.map",
+    "static/css/2.a4e2f9ad.chunk.css": "/MintableTokenCrowdSale/static/css/2.a4e2f9ad.chunk.css",
+    "static/js/2.c340b5aa.chunk.js": "/MintableTokenCrowdSale/static/js/2.c340b5aa.chunk.js",
+    "static/js/2.c340b5aa.chunk.js.map": "/MintableTokenCrowdSale/static/js/2.c340b5aa.chunk.js.map",
+    "index.html": "/MintableTokenCrowdSale/index.html",
+    "precache-manifest.b34b940eaaac13a5991e017b785951b9.js": "/MintableTokenCrowdSale/precache-manifest.b34b940eaaac13a5991e017b785951b9.js",
+    "service-worker.js": "/MintableTokenCrowdSale/service-worker.js",
+    "static/css/2.a4e2f9ad.chunk.css.map": "/MintableTokenCrowdSale/static/css/2.a4e2f9ad.chunk.css.map",
+    "static/css/main.0e47b665.chunk.css.map": "/MintableTokenCrowdSale/static/css/main.0e47b665.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae0c5d83.js",
+    "static/css/2.a4e2f9ad.chunk.css",
+    "static/js/2.c340b5aa.chunk.js",
+    "static/css/main.0e47b665.chunk.css",
+    "static/js/main.9e5ec2d9.chunk.js"
+  ]
+}
