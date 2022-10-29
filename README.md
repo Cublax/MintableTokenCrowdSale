@@ -12,7 +12,7 @@ This is my take on the Mintable ERC20 Project from ['Ethereum Blockchain Develop
    -KYC Whitelisting  
    -Crowdsales  
    -Workflow with Truffle  
-  Smart contract deployment to Ropsten test network through Infura.io  
+  Smart contract deployment to Goerli test network through Infura.io  
   Smart contract testing with Truffle  
 * Front-end:  
   Asynchronous functions  
@@ -22,7 +22,7 @@ This is my take on the Mintable ERC20 Project from ['Ethereum Blockchain Develop
 
 # Technologies Used:
 * Solidity
-* Ropsten Test Network
+* Goerli Test Network
 * OpenZeppelin
 * MetaMask
 * Truffle

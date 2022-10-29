@@ -27,7 +27,7 @@ module.exports = {
       provider: function () {
         return new HDWalletProvider(
           process.env.MNEMONIC,
-          'https://goerli.infura.io/v3/172533afc3e74006b810c97386fbd0ff',
+          'https://goerli.infura.io/v3/b721b56d79b04a47aeaf08d18dbc3b2e',
           AccountIndex
         );
       },

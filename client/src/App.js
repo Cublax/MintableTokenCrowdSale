@@ -131,7 +131,7 @@ class App extends Component {
               src='img/metamask.svg'
             />
             <Heading>Connecting with Metamask...</Heading>
-            <p>Make sure to select Ropsten Test Network</p>
+            <p>Make sure to select Goerli Test Network</p>
           </div>
         </Container>
       );
