@@ -41,7 +41,7 @@ module.exports = {
           AccountIndex
         );
       },
-      network_id: 3,
+      network_id: 11155111,
     },
   },
   compilers: {

@@ -1,8 +1,9 @@
-pragma solidity 0.6.2;
+pragma solidity ^0.6.0;
 
 import "@openzeppelin/contracts/access/Ownable.sol";
 
 contract KycContract is Ownable {
+    
     mapping(address => bool) allowed;
 
     function setKycCompleted(address _addr) public onlyOwner {
