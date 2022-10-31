@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/MintableTokenCrowdSale/precache-manifest.7af9fd9df333774be7e88a046a4f382a.js"
+  "/MintableTokenCrowdSale/precache-manifest.b2f407353932e0aa0fc2168cc2a78ea0.js"
 );
 
 self.addEventListener('message', (event) => {

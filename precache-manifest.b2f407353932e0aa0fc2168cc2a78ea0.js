@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4ce2e281609be7b572840937342e9873",
+    "revision": "8d019c71f1f058eb3debaeb27625e4b1",
     "url": "/MintableTokenCrowdSale/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MintableTokenCrowdSale/static/css/2.9c0acd10.chunk.css"
   },
   {
-    "revision": "67bb60dcb7a0cd94fcd5",
+    "revision": "8fd26a00b05c698a0b06",
     "url": "/MintableTokenCrowdSale/static/css/main.0e47b665.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MintableTokenCrowdSale/static/js/2.3dc9eab6.chunk.js"
   },
   {
-    "revision": "67bb60dcb7a0cd94fcd5",
-    "url": "/MintableTokenCrowdSale/static/js/main.d4db4619.chunk.js"
+    "revision": "8fd26a00b05c698a0b06",
+    "url": "/MintableTokenCrowdSale/static/js/main.11580804.chunk.js"
   },
   {
     "revision": "cc5de73e8bf73cb6076a",
